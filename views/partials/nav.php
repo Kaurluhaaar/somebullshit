@@ -4,5 +4,6 @@
         <li><a href="/about">Meist</a></li>
         <li><a href="/contact">Kontakt</a></li>
         <li><a href="/locations">Asukohad</a></li>
+        <li><a href="/users">Users</a></li>
     </ul>
 </nav>
